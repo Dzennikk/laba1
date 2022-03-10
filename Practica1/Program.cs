@@ -32,7 +32,7 @@ namespace Practica1
     {
         static void Main(string[] args)
         {
-            Firma a = new Firma();
+            Firma a = new Firma(); 
         }
     }
 }
