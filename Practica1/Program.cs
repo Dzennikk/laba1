@@ -9,7 +9,7 @@ namespace Practica1
     class Firma
     {
         public string name; //Название
-        public string adress; //Адресс
+        public string adress; //Адрес
         public int year; //Год основания
         public string Name
         {
@@ -32,7 +32,7 @@ namespace Practica1
     {
         static void Main(string[] args)
         {
-
+            Firma a = new Firma();
         }
     }
 }
